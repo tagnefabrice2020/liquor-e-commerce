@@ -1,0 +1,27 @@
+<?php 
+
+	return [
+		'category' => 'category',
+		'volume' => 'volume',
+		'sort' => 'sort',
+		'products' => 'products',
+		'product' => 'product',
+		'hide' => 'hide',
+		'atoz' => 'A to Z',
+		'priceAsc' => 'Price: Low to High',
+		'priceDesc' => 'Price: High to Low',
+		'next' => 'NEXT',
+		'noProductFound' => 'No products were found matching your selection.',
+		'noProductFoundSearch' => 'No products were found matching your mot-clé.',
+		'from' => 'From',
+		'your cart' => 'Your cart',
+		'quantity' => 'Quantity',
+		'shipping address' => 'Shipping address',
+		'total price' => 'Total price',
+		'price' => 'prix',
+		'purchase' => 'purchase',
+		'shoppingCart' => 'Shopping Cart',
+		'each' => 'each',
+		'addToCart' => 'Add To Cart',
+		'buy' => 'Buy',
+	];
